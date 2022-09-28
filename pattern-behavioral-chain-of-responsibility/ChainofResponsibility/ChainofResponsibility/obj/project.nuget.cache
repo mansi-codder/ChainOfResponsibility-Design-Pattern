@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZfzdaJr2wHf/HZAIPKpiwFYnHOAMmQ1ZisTR0G0d4VRPzgaJOMPyukjX1MjspPoi8rZTzsylnNHKFLbV1eLLUA==",
+  "success": true,
+  "projectFilePath": "D:\\DesignPatterns\\pattern-behavioral-chain-of-responsibility\\ChainofResponsibility\\ChainofResponsibility\\ChainofResponsibility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MGAN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
